@@ -24,7 +24,7 @@ description              : "jjong's github blog."
 url                      : "https://burnjjong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bnjjong/bnjjong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 타이틀 옆에 작게 들어갈 이미지.
+teaser                   : "/assets/web-development.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png" 타이틀 옆에 작게 들어갈 이미지.
 logo                     : "/assets/web-development.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "My dev stroy." # overrides the website title displayed in the masthead, use " " for no title 홈페이지 최 상탄에 들어갈 타이틀
 # breadcrumbs            : false # true, false (default)
