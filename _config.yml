@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Burning jjong's blog" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
 title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
 subtitle                 : "Simply coding story" # site tagline that appears below site title in masthead
-name                     : "버닝쫑"
+name                     : "Burning jjong"
 description              : "jjong's github blog."
 url                      : "https://burnjjong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -97,13 +97,13 @@ analytics:
 author:
   name             : "burning jjong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** developer."
+  bio              : "I'm not complacent but im just waiting my time."
   location         : "Seoul / North Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dogfootmaster@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
